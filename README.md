@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![MasterHead](/Animations/Giphy2.gif)
 
 <h1 align="center">Hi 👋, I'm Mohamed Waseem</h1>
 <h3 align="center">Blockchain Enthusiast & Full Stack Developer</h3>
