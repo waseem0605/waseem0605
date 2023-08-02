@@ -6,10 +6,12 @@
 
 <img align="right" alt="GIF" src="/Animations/Giphy1.gif" width="400"/>
 <h2> 👨🏻‍💻 About Me </h2>
-- 🎓 Pre Final year undergrad at Sri Eshwar College of Engineering<br>
-- 🎓&nbsp;Studying Computer Science and Engineering <br>
-- 🌱 Learning Never Stops 🚀<br>
-- 🤔&nbsp;Exploring new technologies and developing software solutions and quick hacks.<br>
+- 🎓 Pre Final year undergrad at Sri Eshwar College of Engineering 🏫<br>
+- 🍁&nbsp;From the Department of Computer Science 🖥️<br>
+- 🍂 Blockchain and Cyber Security enthusiast ✨<br>
+- 🌱 Do whatever you love 🚀<br>
+- 😎&nbsp;Exploring new technologies ❤️‍🔥<br>
+
 
 
 <h3 align="left">Connect with me:</h3>
