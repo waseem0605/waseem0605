@@ -1,7 +1,7 @@
 ![MasterHead](/Animations/Giphy2.gif)
 
 <h1 align="center">Hi 👋, I'm Mohamed Waseem</h1>
-<h3 align="center">Blockchain Enthusiast & Full Stack Developer</h3>
+<h3 align="center">Blockchain & Cyber Security Enthusiast</h3>
 
 
 <img align="right" alt="GIF" src="/Animations/Giphy1.gif" width="400"/>
